@@ -1,0 +1,6 @@
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\2.2 - Digital väckarklocka\2.2 - Digital väckarklocka\bin\Debug\2.2 - Digital väckarklocka.exe.config
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\2.2 - Digital väckarklocka\2.2 - Digital väckarklocka\bin\Debug\2.2 - Digital väckarklocka.exe
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\2.2 - Digital väckarklocka\2.2 - Digital väckarklocka\bin\Debug\2.2 - Digital väckarklocka.pdb
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\2.2 - Digital väckarklocka\2.2 - Digital väckarklocka\obj\Debug\2.2 - Digital väckarklocka.csprojResolveAssemblyReference.cache
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\2.2 - Digital väckarklocka\2.2 - Digital väckarklocka\obj\Debug\2.2 - Digital väckarklocka.exe
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\2.2 - Digital väckarklocka\2.2 - Digital väckarklocka\obj\Debug\2.2 - Digital väckarklocka.pdb

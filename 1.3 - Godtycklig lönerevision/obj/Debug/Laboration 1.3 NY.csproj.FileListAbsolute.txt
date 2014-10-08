@@ -1,0 +1,18 @@
+P:\GitHub\1ik415-laborationer\inledande programmering med c sharp\Laboration 1.3 NY\bin\Debug\Laboration 1.3 NY.exe.config
+P:\GitHub\1ik415-laborationer\inledande programmering med c sharp\Laboration 1.3 NY\obj\Debug\Laboration 1.3 NY.csprojResolveAssemblyReference.cache
+P:\GitHub\1ik415-laborationer\inledande programmering med c sharp\Laboration 1.3 NY\bin\Debug\Laboration 1.3 NY.exe
+P:\GitHub\1ik415-laborationer\inledande programmering med c sharp\Laboration 1.3 NY\bin\Debug\Laboration 1.3 NY.pdb
+P:\GitHub\1ik415-laborationer\inledande programmering med c sharp\Laboration 1.3 NY\obj\Debug\Laboration 1.3 NY.exe
+P:\GitHub\1ik415-laborationer\inledande programmering med c sharp\Laboration 1.3 NY\obj\Debug\Laboration 1.3 NY.pdb
+C:\Users\Pavic\Desktop\GitHubCSharp\1ik415-laborationer\inledande programmering med c sharp\Laboration 1.3 NY\bin\Debug\Laboration 1.3 NY.exe.config
+C:\Users\Pavic\Desktop\GitHubCSharp\1ik415-laborationer\inledande programmering med c sharp\Laboration 1.3 NY\obj\Debug\Laboration 1.3 NY.exe
+C:\Users\Pavic\Desktop\GitHubCSharp\1ik415-laborationer\inledande programmering med c sharp\Laboration 1.3 NY\obj\Debug\Laboration 1.3 NY.pdb
+C:\Users\Pavic\Desktop\GitHubCSharp\1ik415-laborationer\inledande programmering med c sharp\Laboration 1.3 NY\bin\Debug\Laboration 1.3 NY.exe
+C:\Users\Pavic\Desktop\GitHubCSharp\1ik415-laborationer\inledande programmering med c sharp\Laboration 1.3 NY\bin\Debug\Laboration 1.3 NY.pdb
+C:\Users\Pavic\Desktop\GitHubCSharp\1ik415-laborationer\inledande programmering med c sharp\Laboration 1.3 NY\obj\Debug\Laboration 1.3 NY.csprojResolveAssemblyReference.cache
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Laboration 1.3 NY\bin\Debug\Laboration 1.3 NY.exe.config
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Laboration 1.3 NY\obj\Debug\Laboration 1.3 NY.exe
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Laboration 1.3 NY\obj\Debug\Laboration 1.3 NY.pdb
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\1.3 - Godtycklig lönerevision\bin\Debug\Laboration 1.3 NY.exe.config
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\1.3 - Godtycklig lönerevision\obj\Debug\Laboration 1.3 NY.exe
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\1.3 - Godtycklig lönerevision\obj\Debug\Laboration 1.3 NY.pdb
